@@ -99,3 +99,4 @@
 - [Gamma APP](https://gamma.app/)：AI 幻灯片演示生成工具。
 - [Chronicle](https://chroniclehq.com/)：AI 高颜值演示文稿创建。
 - [Panda GPT](https://www.pandagpt.io/)：AI 总结文档重点。
+- [AI简历-量身定制的求职帮手](https://ai-tools.cn/resume)：新一代在线AI简历工具，制作高质量简历。
