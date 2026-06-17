@@ -99,3 +99,4 @@
 - [Gamma APP](https://gamma.app/)：AI 幻灯片演示生成工具。
 - [Chronicle](https://chroniclehq.com/)：AI 高颜值演示文稿创建。
 - [Panda GPT](https://www.pandagpt.io/)：AI 总结文档重点。
+- [Remio](https://remio.ai/)：本地优先的 AI 记忆与知识库桌面应用，可解析文件、网页、录音、邮件和笔记，并通过本地索引与向量检索快速找回个人上下文。
