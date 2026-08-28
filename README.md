@@ -73,6 +73,7 @@
 - [智能 logo](https://logo.aliyun.com/logo)：阿里云旗下 AI 辅助 LOGO 设计。
 - [Plask](https://plask.ai/)：AI 捕捉动作，制作 3D 动画。
 - [Sloyd](https://www.sloyd.ai/)：快速生成 3D 游戏资产。
+- [Luphra](https://www.luphra.com/)：将提示词/草图转为可编辑 3D 与 3D 打印实物。
 - [Text to Skybox](https://skybox.blockadelabs.com/)：AI 生成 360 度无缝贴图。
 - [Poly](https://withpoly.com/browse/textures)：根据文本生成 3D 材质。
 
