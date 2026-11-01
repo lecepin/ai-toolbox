@@ -85,6 +85,7 @@
 - [Codeeium](https://codeium.com/)：AI 代码生成和补全。
 - [Sketch2Code](https://sketch2code.azurewebsites.net/)：微软推出手绘图生成 HTML 代码。
 - [CodiumAI](https://www.codium.ai/)：AI 代码测试工具。
+- [agent-qa](https://vostride.com)：vostride 的自然语言 Web 与移动端测试智能体，支持 memidex 持久记忆和经验证的自我改进。
 - [Cursor](https://www.cursor.so/)：AI 编程和软件开发。
 - [CodeGeex](https://codegeex.cn/zh-CN)：国内免费 AI 编程助手。
 - [Mutable Ai](https://mutable.ai/)：人工智能加速软件开发。
